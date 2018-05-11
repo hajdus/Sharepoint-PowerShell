@@ -3,7 +3,9 @@
         Get all shp groups for all users 
  
     .DESCRIPTION 
-        To run this script you need to have acces to sharepoint database. Can chceck it with Get-SPContentDatabase. To add permission Add-SPShellAdmin -UserName GPEC\milo -database database_id
+        To run this script you need to have acces to sharepoint database. 
+        Can chceck it with Get-SPContentDatabase. 
+        To add permission Add-SPShellAdmin -UserName GPEC\milo -database database_id
              
     .OUTPUTS 
         Txt file save in current user desktop
